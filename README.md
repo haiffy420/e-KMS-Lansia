@@ -6,7 +6,7 @@ A project requested by one of the teacher in my college.
 # How to open this project
 1. Install XAMPP
 2. Download the source-code
-3. Extract the source-code to your XAMPP htdocs folder
+3. Extract the source-code and move it to your XAMPP htdocs folder (e.g. C:\xampp\htdocs)
 4. Create and upload the database "silansia.sql" to phpmyadmin
 
 # Login details

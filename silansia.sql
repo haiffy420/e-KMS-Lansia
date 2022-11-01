@@ -158,8 +158,8 @@ CREATE TABLE `tb_pengguna` (
 --
 
 INSERT INTO `tb_pengguna` (`id_pengguna`, `nama_pengguna`, `username`, `password`, `level`) VALUES
-(1, 'ADMIN e-KMS Lansia', 'admin', '3be32b59483f5083b4848ed034da6c6446acef3a', 'Administrator'),
-(2, 'Pengguna e-KMS Lansia', 'user', '80f0ed2089e14950d85e62ce526e3ded2ab50f3b', 'User');
+(1, 'ADMIN e-KMS Lansia', 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Administrator'),
+(2, 'Pengguna e-KMS Lansia', 'user', '12dea96fec20593566ab75692c9949596833adc9', 'User');
 
 --
 -- Indexes for dumped tables
